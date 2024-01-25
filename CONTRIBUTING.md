@@ -1,6 +1,6 @@
-# Contributing to node-irc
+**Contributing to node-irc
 
-First, and most importantly, thank you for contributing to node-irc! Your efforts make the library
+First, and most importantly, thank you for contributing to node-irc# Your efforts make the library
 as awesome as it is, and we really couldn't do it without you. Through your pull requests, issues,
 and discussion, together we are building the best IRC library for node. So, once again, *thank you*!
 
@@ -45,3 +45,4 @@ come talk to us on IRC! We'll be glad to walk you through it.
 * Use the imperative mood ("Change message handling..." not "Changes message handling...").
 * Limit the first line to 72 characters or less.
 * Reference issues and pull requests liberally.
+ 
